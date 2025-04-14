@@ -5,7 +5,9 @@
 *NOS PEDIRA CONFIGURAR EL PROYECTO*
 *UNA VEZ TERMINADO EL PROCESO CONTINUAR CON LOS SIGUIENTES COMANDOS:*
  `cd nombre_carpeta_proyecto`
+ 
  `npm install`
+ 
  `npm run dev`
 
 #### si hemos ejecutado los pasos anteriores correctamente veremos este mensaje en la consola al ejecutar `npm run dev:
