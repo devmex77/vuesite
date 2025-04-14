@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+# Crear nuevo proyecto con Vue+Vite+JS
+##### Secuencia de comandos para crear el proyecto:
+`npm create vite@latest 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+*NOS PEDIRA CONFIGURAR EL PROYECTO*
+*UNA VEZ TERMINADO EL PROCESO CONTINUAR CON LOS SIGUIENTES COMANDOS:*
+ `cd nombre_carpeta_proyecto`
+ `npm install`
+ `npm run dev`
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+#### si hemos ejecutado los pasos anteriores correctamente veremos este mensaje en la consola al ejecutar `npm run dev:
+![[Pasted image 20250414141702.png]]
+
+#### Al ir al enlace debemos ver algo como esto en el navegador:
+![[Pasted image 20250414141910.png]]
+
+
+#### ahora deberemos editar el proyecto para obtener algo como esto:
+![[Pasted image 20250414161227.png]]
