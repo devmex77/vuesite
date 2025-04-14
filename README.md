@@ -9,11 +9,13 @@
  `npm run dev`
 
 #### si hemos ejecutado los pasos anteriores correctamente veremos este mensaje en la consola al ejecutar `npm run dev:
-![[Pasted image 20250414141702.png]]
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/76d1af4f-8467-49a3-96e2-ddb80dfb6853" />
+
 
 #### Al ir al enlace debemos ver algo como esto en el navegador:
-![[Pasted image 20250414141910.png]]
+<img width="342" alt="image" src="https://github.com/user-attachments/assets/bccc7af8-4115-4f7a-bc5f-332c8fc7cad1" />
 
 
 #### ahora deberemos editar el proyecto para obtener algo como esto:
-![[Pasted image 20250414161227.png]]
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/5d270641-dbd3-4d7d-a301-a96e96a687c4" />
+
