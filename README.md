@@ -1,4 +1,4 @@
-# Crear nuevo proyecto con Vue+Vite+JS
+# 💼 Crear nuevo proyecto con Vue+Vite+JS
 ##### Secuencia de comandos para crear el proyecto:
 `npm create vite@latest`
 
