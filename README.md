@@ -1,4 +1,12 @@
 # 💼 Crear nuevo proyecto con Vue+Vite+JS
+# Requisitos para trabajar con Vue+Vite
+Tener instaladas las siguientes herramientas en el equipo de trabajo
+
+-Visual Studio Code
+
+-Node JS
+
+
 ##### Secuencia de comandos para crear el proyecto:
 `npm create vite@latest`
 
