@@ -5,7 +5,14 @@ Tener instaladas las siguientes herramientas en el equipo de trabajo:
 
 -Visual Studio Code
 
--Node JS
+-Node JS versión 18.3 o superior
+
+-Estar familiarizado con la linea comandos
+
+
+documentacion oficial de vue:
+
+https://vuejs.org/guide/quick-start.html
 
 
 ##### Secuencia de comandos para crear el proyecto:
