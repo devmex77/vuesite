@@ -1,4 +1,4 @@
-# 💼 Crear nuevo proyecto con Vue+Vite+JS
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/7c4a58ff-80ba-433d-8eb9-71ce735db133" /># 💼 Crear nuevo proyecto con Vue+Vite+JS
 # Requisitos para trabajar con Vue+Vite
 
 Tener instaladas las siguientes herramientas en el equipo de trabajo:
@@ -16,9 +16,19 @@ https://vuejs.org/guide/quick-start.html
 
 
 ##### Secuencia de comandos para crear el proyecto:
+1-abrir la terminal de windows
+`windows+R`
+
+2-escribe "cmd" en la ventana y presiona "enter"
+se abrira una ventana como se muestra a continuacion
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/74922269-b92a-40b2-ae37-b5f73a4af613" />
+
+3-creando el nuevo proyecto 
 `npm create vite@latest`
 
-*NOS PEDIRA CONFIGURAR EL PROYECTO*
+*NOS PEDIRA CONFIGURAR EL PROYECTO como se muestra a continuacion:*
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/73a3b6c2-8449-414b-9671-0e77b30ac801" />
+
 
 *UNA VEZ TERMINADO EL PROCESO CONTINUAR CON LOS SIGUIENTES COMANDOS:*
 
