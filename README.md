@@ -1,6 +1,6 @@
 # 💼 Crear nuevo proyecto con Vue+Vite+JS
 
-# Requisitos para trabajar con Vue+Vite
+# Requisitos para trabajar con Vue+Vite:
 
 Tener instaladas las siguientes herramientas en el equipo de trabajo:
 
@@ -16,7 +16,7 @@ documentacion oficial de vue:
 https://vuejs.org/guide/quick-start.html
 
 
-##### Secuencia de comandos para crear el proyecto:
+# Secuencia de comandos para crear el proyecto:
 1-abrir la terminal de windows
 `windows+R`
 
