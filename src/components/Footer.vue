@@ -1,9 +1,14 @@
 <script setup></script>
 
 <template>
-    <div class="container text-center">
-        <h1>Footer</h1>
+    <div class="mt-5">
+        <h1 class="text-center p-3">Footer</h1>
     </div>
+
 </template>
 
-<style scoped></style>
+<style scoped>
+*{
+    background-color: aqua;
+}
+</style>

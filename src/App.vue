@@ -1,16 +1,13 @@
 <script setup>
-//import HelloWorld from './components/HelloWorld.vue'
 import Navbar from './components/NavBar.vue'
-import Inicio from './layouts/Inicio.vue'
 import Footer from './components/Footer.vue'
 </script>
 
 <template>
   <Navbar></Navbar>
-  <Inicio>
-    
-  </Inicio>
-  
+  <div class="container mt-5">
+    <router-view></router-view>
+  </div>
   <Footer></Footer>
   
 </template>
