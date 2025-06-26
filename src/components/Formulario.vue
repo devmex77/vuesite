@@ -1,23 +1,25 @@
 <script setup>
 import { reactive } from 'vue'
-//import api from '../api'
+import api from '../api'
 
 //creando objeto reactivo asignado a una constante con la funcion reactive, para poder usarlo con un formulario reactivo
 const form = reactive({
   nombre: '',
   correo: '',
-  edad: ''
+  edad: '',
+  nombre_escuela: ''
 })
 
 //creando funcion flecha asincronica asignada a una constante
 const handleSubmit = async () => {
   //try&catch--> manejo de errores en llamadas a la api, acceso a archivos, ops con base de datos, etc 
   try {
-    await api.post('/items/Registro', form)
+    await api.post('/items/usuarios', form)
     alert('Formulario enviado con éxito ✅')
     form.nombre = ''
     form.correo = ''
     form.edad = ''
+    form.nombre_escuela = ''
   } catch (error) {
     console.error('Error al enviar el formulario:', error.response?.data || error.message)
     alert('❌ Hubo un error al enviar el formulario.')
