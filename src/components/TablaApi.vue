@@ -9,7 +9,7 @@ const registros = ref([])
 // Función para obtener registros desde Directus
 const obtenerRegistros = async () => {
   try {
-    const response = await api.get('/items/Registro') // la direccion siempre es"/items/nombre_coleccion
+    const response = await api.get('/items/personas') // la direccion siempre es"/items/nombre_coleccion
     registros.value = response.data.data
   } catch (error) {
     console.error('Error al obtener registros:', error)
