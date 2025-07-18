@@ -1,5 +1,5 @@
 <script setup>
-//import api from '../api.js'
+import api from '../api.js'
 import { ref, onMounted} from 'vue'
 
 //variable reactiva que contiene un arreglo vacio, es decir que detectara cualquier cambio en la variable 
