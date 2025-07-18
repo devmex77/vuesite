@@ -12,7 +12,7 @@ const obtenerRegistros = async () => {
     const response = await api.get('/items/personas') // la direccion siempre es"/items/nombre_coleccion
     registros.value = response.data.data
   } catch (error) {
-    console.error('Error al obtener registros:', error)
+    console.error('Error al obtener registros:', error.response?.data || error.message)
   }
 }
 
