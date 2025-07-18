@@ -1,11 +1,12 @@
 import axios from 'axios'
 
-//creando api
+//creando objeto api 
 const api = axios.create({
-    baseURL: 'http://localhost:8055', // Cambia si usas otro puerto o dominio
+    baseURL: 'https://mycms-hbj3.onrender.com', // Cambia si usas otro puerto o dominio
     headers: {
         'Content-Type': 'application/json'
     }
 })
 
+//exportando el objeto api
 export default api

@@ -14,7 +14,7 @@ const form = reactive({
 const handleSubmit = async () => {
   //try&catch--> manejo de errores en llamadas a la api, acceso a archivos, ops con base de datos, etc 
   try {
-    await api.post('/items/usuarios', form)
+    await api.post('/items/personas', form)
     alert('Formulario enviado con éxito ✅')
     form.nombre = ''
     form.correo = ''
